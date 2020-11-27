@@ -1,6 +1,7 @@
 import React from 'react'
 
 const VideoDetail = ({ video }) => {
+    ////--coverage --watchAll
     if(!video){
         return <div>Loading...</div>
     }
