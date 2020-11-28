@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Barts Youtube
+
+This is a video search app I built to practice using React Hooks and testing with Jest and Enzyme.
+
+Here is the link to the [live site](https://barts-youtube.netlify.app/).
 
 ## Available Scripts
 
